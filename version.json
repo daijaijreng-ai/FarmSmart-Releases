@@ -1,7 +1,7 @@
 {
-  "versionCode": 3,
-  "versionName": "1.2",
-  "apkUrl": "",
-  "sha256": "",
-  "message": "Farm Smart 1.2"
+    "apkUrl":  "https://github.com/daijaijreng-ai/FarmSmart-Releases/releases/download/v1.2/FarmSmart-1.2.apk",
+    "message":  "มี Farm Smart 1.2 พร้อมอัปเดต",
+    "sha256":  "1091d746535e0bbdd9dd61ded5f3b1c2779e78f0e6f2217c638dcec4b8973536",
+    "versionCode":  3,
+    "versionName":  "1.2"
 }
