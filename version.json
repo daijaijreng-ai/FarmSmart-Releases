@@ -1,7 +1,7 @@
 {
-  "versionCode": 5,
-  "versionName": "1.4",
-  "apkUrl": "https://github.com/daijaijreng-ai/FarmSmart-Releases/releases/download/v1.4/FarmSmart-1.4.apk",
-  "sha256": "11b3b9fcb495d880e08cb686371abb654eee2bdf9ebfeab47655c49e8c49449b",
-  "message": "Farm Smart 1.4 ready"
+  "versionCode": 6,
+  "versionName": "1.5",
+  "apkUrl": "https://github.com/daijaijreng-ai/FarmSmart-Releases/releases/download/v1.5/FarmSmart-1.5.apk",
+  "sha256": "ff837326a9606b520b532481291347aacfdf58a78f5e7dcef4bbb355c51e7af9",
+  "message": "Farm Smart 1.5 ready"
 }
